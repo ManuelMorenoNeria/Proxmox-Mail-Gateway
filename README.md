@@ -8,11 +8,11 @@ Proxmox Mail Gateway es una solución de filtrado de correo electrónico de cód
 
 ## Contenido
 
-- [Características](#características)
-- [Requisitos](#requisitos)
-- [Instalación](#instalación)
-- [Configuración Inicial](#configuración-inicial)
-- [Uso](#uso)
+- [Características](/md/caracteristicas.md)
+- [Requisitos](/md/requisitos.md)
+- [Instalación](/md/instalación.md)
+- [Configuración Inicial](/md/conf_inicial.md)
+- [Usos](/md/usos.md)
 
 ## Características
 

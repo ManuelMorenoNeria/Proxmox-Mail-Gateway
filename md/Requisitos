@@ -1,0 +1,5 @@
+Antes de instalar Proxmox Mail Gateway, asegúrate de que tu sistema cumpla con los siguientes requisitos:
+
+- Un servidor con Proxmox VE instalado
+- Acceso a internet para actualizaciones y descarga de paquetes
+- Recursos de hardware adecuados (CPU, RAM, almacenamiento)

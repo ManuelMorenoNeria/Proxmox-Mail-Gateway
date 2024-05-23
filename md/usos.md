@@ -1,0 +1,3 @@
+- **Gestión de Correo**: Revisa y gestiona los correos en cuarentena.
+- **Configuración de Reglas**: Personaliza las reglas de filtrado de correo.
+- **Informes**: Genera informes sobre el tráfico de correo y las amenazas detectadas.

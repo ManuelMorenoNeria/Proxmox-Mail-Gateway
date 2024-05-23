@@ -1,0 +1,6 @@
+- Filtrado de spam y virus
+- Reglas de filtrado personalizables
+- Integración con LDAP y Active Directory
+- Gestión de cuarentenas de correo
+- Interfaz web intuitiva
+- Actualizaciones automáticas de bases de datos de spam y antivirus
